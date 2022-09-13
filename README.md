@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://zenzapis.xyz/upload/icon.jpg" alt="nz" width="350"/>
+<img src="killua.jpg" alt="nz" width="350"/>
 </p>
 
 ## Killua-Zoldyck
@@ -12,10 +12,7 @@
 
 </br>
 
-<a href="https://github.com/zhwzein"><img title="Author" src="https://img.shields.io/badge/Author-Zhwzein-blue.svg?color=54aeff&style=for-the-badge&logo=github" /></a>  
-<a href="https://github.com/zhwzein/Killua-Zoldyck"><img title="Stars" src="https://img.shields.io/github/stars/zhwzein/Killua-Zoldyck?color=54aeff&style=flat-square" /></a>
-<a href="https://github.com/zhwzein/Killua-Zoldyck/network/members"><img title="Forks" src="https://img.shields.io/github/forks/zhwzein/Killua-Zoldyck?color=54aeff&style=flat-square" /></a>
-<a href="https://github.com/zhwzein/Killua-Zoldyck/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/zhwzein/Killua-Zoldyck?label=watchers&color=54aeff&style=flat-square" /></a> <br>
+<a href="https://github.com/DUCKTys"><img title="Author" src="https://img.shields.io/badge/Author-DUCKTys-blue.svg?color=54aeff&style=for-the-badge&logo=github" /></a>  
 
 ---
 
@@ -31,8 +28,8 @@ Add FFmpeg to PATH environment variable
 ```
 	
 ```bash
-> git clone https://github.com/zhwzein/Killua-Zoldyck
-> cd Killua-Zoldyck
+> git clone https://github.com/DUCKTys/killua-MD
+> cd killua-MD
 > npm install
 ```
 </details>
@@ -48,8 +45,8 @@ Add FFmpeg to PATH environment variable
 > apt install git -y
 > apt install nodejs -y
 > apt install ffmpeg -y
-> git clone https://github.com/zhwzein/Killua-Zoldyck
-> cd Killua-Zoldyck
+> git clone https://github.com/DUCKTys/killua-MD
+> cd killua-MD
 > pkg install yarn
 > yarn add @adiwajshing/baileys
 > yarn
@@ -64,7 +61,7 @@ Add FFmpeg to PATH environment variable
     "apikey": "YOURAPIKEY"
  },
 "owner": [
-    "62812xxx"
+    "6281xxx"
  ],
 ```
 </details>
@@ -127,7 +124,7 @@ SCAN THE QR USING YOUR WHATSAPP!
 	
 	Pull requests are welcome. Your contribution is helping me too
 	
-Group Support [Here](https://chat.whatsapp.com/G1e0U2lOTVAGKNjyFHjDGP)
+YouTube [Here](https://youtube.com/channel/UCzaDkVfxEyTT37-1cls6UAw)
 	
 </details>
 
@@ -137,6 +134,7 @@ Group Support [Here](https://chat.whatsapp.com/G1e0U2lOTVAGKNjyFHjDGP)
 * [`Mhankbarbar`](https://github.com/MhankBarBar)
 * [`DikaArdnt`](https://github.com/DikaArdnt)
 * [`Faizbastomi`](https://github.com/FaizBastomi)
+* [`DUCKTys`](https://github.com/DUCKTys)
 
 
 License: [MIT](https://en.wikipedia.org/wiki/MIT_License)
